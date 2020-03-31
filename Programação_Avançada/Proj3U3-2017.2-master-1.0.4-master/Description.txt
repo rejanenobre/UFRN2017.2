@@ -1,0 +1,1 @@
+Projeto proposto como atividade curricular da terceira unidade do componente Programação Avançada (2017.2) que visa a implementação e tratamento de um produtor de dados que se conecta com um computador. - Autora: Rejane Nobre Bezerra - 2017.2 (Códigos baseados ou utilizados: agostinhobritojr)

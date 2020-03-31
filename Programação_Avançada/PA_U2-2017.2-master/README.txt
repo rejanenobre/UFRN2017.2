@@ -1,0 +1,1 @@
+Projeto proposto como atividade curricular da segunda unidade do componente Programação Avançada (2017.2) que visa a implementação e tratamento de Pontos e Polígonos Convexos no espaço 2D. - Autora: Rejane Nobre Bezerra - 2017.2

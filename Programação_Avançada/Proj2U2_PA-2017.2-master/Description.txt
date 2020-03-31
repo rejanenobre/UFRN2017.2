@@ -1,0 +1,1 @@
+Projeto proposto como atividade curricular da segunda unidade do componente Programação Avançada (2017.2) que visa a implementação e tratamento de figuras geométricas simples, realizando operações de desenho em uma matriz de pontos. - Autora: Rejane Nobre Bezerra - 2017.2
